@@ -13,3 +13,5 @@ if (login == "Employee") {
   message = "";
 }
 ```
+
+message = login == 'Employee' ? 
